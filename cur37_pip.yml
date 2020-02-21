@@ -1,0 +1,39 @@
+# name: tf2
+channels:
+  - anaconda
+  - conda-forge
+  - willyd
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.7
+  - ipykernel
+  - caffe-gpu 
+  - protobuf 
+  - libprotobuf
+  - glog 
+  - leveldb
+  - pip
+  - pip:
+    - tensorflow-gpu==1.15.0
+    - pillow 
+    - scikit-image
+    - scikit-learn 
+    - pandas  
+    - matplotlib 
+    - scipy 
+    - tables
+    - ipywidgets
+    - opencv-python 
+    - opencv-contrib-python
+    - dlib
+    - albumentations 
+    - tqdm
+    - click 
+    - xlrd
+    - torch
+    - torchvision
+    - graphviz
+    - pydot
+
+# prefix: /Users/username/anaconda3/envs/env-name
