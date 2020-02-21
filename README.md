@@ -27,10 +27,13 @@ Affiliation: Chonnam National University, South Korea <br/>
 
 ## Aff-Wild2 dataset
 * Overview cropped_aligned image frames in different videos
-![alt text](https://github.com/dntai/dntai_fg20_affwild2_challenges/blob/master/images/fig3_affwild2_images.png)
+![alt text](https://github.com/dntai/dntai_fg20_affwild2_challenges/blob/master/images/fig2_problem.png)
 
 * Overview cropped_aligned image frames in the same videos
 ![alt text](https://github.com/dntai/dntai_fg20_affwild2_challenges/blob/master/images/fig3_affwild2_images.png)
 
 * Data Distribution in Basic Emotion Recognition Track on Training and Validation
-![alt text](https://github.com/dntai/dntai_fg20_affwild2_challenges/blob/master/images/fig4_affwild2_emotion_scheme_data_distribution.png)
+![alt text](https://github.com/dntai/dntai_fg20_affwild2_challenges/blob/master/images/distribution_train_valence_arousal.png)
+
+* Data Distribution in Valence-Arousal Regression Track on Training and Validation
+![alt text](https://github.com/dntai/dntai_fg20_affwild2_challenges/blob/master/images/distribution_valid_valence_arousal.png)
