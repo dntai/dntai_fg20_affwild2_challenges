@@ -37,3 +37,20 @@ Affiliation: Chonnam National University, South Korea <br/>
 
 * Data Distribution in Valence-Arousal Regression Track on Training and Validation
 ![alt text](https://github.com/dntai/dntai_fg20_affwild2_challenges/blob/master/images/distribution_valid_valence_arousal.png)
+
+## Result
+* List Models
+![alt text](https://github.com/dntai/dntai_fg20_affwild2_challenges/blob/master/images/table1.png)
+
+* List Results
+![alt text](https://github.com/dntai/dntai_fg20_affwild2_challenges/blob/master/images/table2.png)
+[7] from baseline paper: <br/>
+
+@misc{kollias2020analysing,
+    title={Analysing Affective Behavior in the First ABAW 2020 Competition},
+    author={Dimitrios Kollias and Attila Schulc and Elnar Hajiyev and Stefanos Zafeiriou},
+    year={2020},
+    eprint={2001.11409},
+    archivePrefix={arXiv},
+    primaryClass={cs.LG}
+}
