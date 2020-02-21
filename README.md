@@ -21,3 +21,6 @@ Affiliation: Chonnam National University, South Korea <br/>
 6. Open JupyterLab and run *.ipynb in **submit** folder to output the results (
    + Run sel_t[xx].ipynb to output the prediction files(modify params parameter if neccessary)
    + Run sel_t[xx]_submit.ipynb to output the result folder (modify params parameter if neccessary)
+   
+## Proposed model
+![alt text](https://github.com/dntai/dntai_fg20_affwild2_challenges/blob/master/images/fig1_model.png)
