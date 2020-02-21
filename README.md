@@ -10,4 +10,6 @@ Affiliation: Chonnam National University, South Korea <br/>
 
 ## Usage
 1. Run setup_envs.sh to install conda environments with Python 3.7, keras, tensorflow, etc. <br/>
-2. 
+2. Unzip two pandas index files of Aff-Wild2 dataset: affwild2_cropped_aligned_frames.zip and affwild2_cropped_frames.zip in [data/AffWild2/data] folder
+3. Download and setup Aff-Wild2 dataset:
++ Download Aff-Wild2 dataset, extract ccropped_aligned files to [data/AffWild2/data/] folder

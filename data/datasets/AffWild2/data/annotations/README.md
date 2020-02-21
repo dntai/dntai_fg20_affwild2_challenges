@@ -1,0 +1,1 @@
+Extract the annotation file annotations-20200206T021745Z-001.zip and copy 3 folder: AU_Set, EXPR_Set, VA_Set at here. <br/>
