@@ -8,6 +8,10 @@ Team Members: <br/>
 (3) **Soo-Hyung Kim**<br/>
 Affiliation: Chonnam National University, South Korea <br/>
 
+## Our paper:
+**Affective  Expression  Analysis  in-the-wild  using  Multi-Task  TemporalStatistical  Deep  Learning  Model**<br/>
+(in submitting status of https://arxiv.org/)<br/>
+
 ## How to run
 1. Download and setup Anaconda3
 2. Run setup_envs.sh to install conda environments with Python 3.7, keras, tensorflow, etc. <br/>
@@ -39,11 +43,18 @@ Affiliation: Chonnam National University, South Korea <br/>
 ![alt text](https://github.com/dntai/dntai_fg20_affwild2_challenges/blob/master/images/distribution_valid_valence_arousal.png)
 
 ## Result
-* List Models
+* List Models<br/>
 ![alt text](https://github.com/dntai/dntai_fg20_affwild2_challenges/blob/master/images/table1.png)
 
-* List Results
+* List Results<br/>
 ![alt text](https://github.com/dntai/dntai_fg20_affwild2_challenges/blob/master/images/table2.png)
+
+* Fusion Results on Validation: E
+xpr. Score = 0.533, Valence-Arousal Score  = 0.5126<br/>
+
+* Submission results: 
+Track 1 Valence-Arousal Challenge on Validation: 0.499 (1), 0.492 (2), 0.483 (3), and 0.513 (4) <br/>
+Track 2 Basic Emotion Recognition Challenge on Validation: 0.520 (1), 0.482 (2), 0.384 (3), and 0.533 (4)<br/>
 
 Baseline paper: <br/>
 <pre>
