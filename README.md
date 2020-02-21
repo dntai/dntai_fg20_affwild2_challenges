@@ -44,8 +44,9 @@ Affiliation: Chonnam National University, South Korea <br/>
 
 * List Results
 ![alt text](https://github.com/dntai/dntai_fg20_affwild2_challenges/blob/master/images/table2.png)
-[7] from baseline paper: <br/>
 
+Baseline paper: <br/>
+<pre>
 @misc{kollias2020analysing,
     title={Analysing Affective Behavior in the First ABAW 2020 Competition},
     author={Dimitrios Kollias and Attila Schulc and Elnar Hajiyev and Stefanos Zafeiriou},
@@ -54,3 +55,4 @@ Affiliation: Chonnam National University, South Korea <br/>
     archivePrefix={arXiv},
     primaryClass={cs.LG}
 }
+<pre/>
