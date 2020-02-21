@@ -24,3 +24,13 @@ Affiliation: Chonnam National University, South Korea <br/>
    
 ## Proposed model
 ![alt text](https://github.com/dntai/dntai_fg20_affwild2_challenges/blob/master/images/fig1_model.png)
+
+## Aff-Wild2 dataset
+* Overview cropped_aligned image frames in different videos
+![alt text](https://github.com/dntai/dntai_fg20_affwild2_challenges/blob/master/images/fig3_affwild2_images.png)
+
+* Overview cropped_aligned image frames in the same videos
+![alt text](https://github.com/dntai/dntai_fg20_affwild2_challenges/blob/master/images/fig3_affwild2_images.png)
+
+* Data Distribution in Basic Emotion Recognition Track on Training and Validation
+![alt text](https://github.com/dntai/dntai_fg20_affwild2_challenges/blob/master/images/fig4_affwild2_emotion_scheme_data_distribution.png)
