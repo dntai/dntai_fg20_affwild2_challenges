@@ -15,7 +15,7 @@ Affiliation: Chonnam National University, South Korea <br/>
 ## How to run
 1. Download and setup Anaconda3
 2. Run setup_envs.sh to install conda environments with Python 3.7, keras, tensorflow, etc. <br/>
-3. Unzip two pandas index files of Aff-Wild2 dataset: affwild2_cropped_aligned_frames.zip and affwild2_cropped_frames.zip in [data/AffWild2/data] folder
+3. Unzip two pandas index files of Aff-Wild2 dataset: affwild2_cropped_aligned_frames_v1.zip and affwild2_cropped_frames_v1.zip in [data/AffWild2/data] folder
 4. Download and setup Aff-Wild2 dataset:
    1. Extract annotations.zip and copy 3 folder AU_Set, EXPR_Set, VA_Set to **data/AffWild2/data/annotations** folder
    2. Extract ccropped_aligned.zip to **data/AffWild2/data/cropped_aligned** folder
