@@ -23,7 +23,7 @@ Link: https://arxiv.org/abs/2002.09120<br/>
 	url = {http://arxiv.org/abs/2002.09120},
 	year = {2020}
 }
-<pre/>
+</pre>
 
 ## How to run
 1. Download and setup Anaconda3
