@@ -10,7 +10,20 @@ Affiliation: Chonnam National University, South Korea <br/>
 
 ## Our paper:
 **Affective  Expression  Analysis  in-the-wild  using  Multi-Task  TemporalStatistical  Deep  Learning  Model**<br/>
-(in submitting status of https://arxiv.org/)<br/>
+Link: https://arxiv.org/abs/2002.09120<br/>
+<pre>
+@article{Do2020,
+	archivePrefix = {arXiv},
+	arxivId = {2002.09120},
+	author = {Do, Nhu-Tai and Kim, Soo-Hyung},
+	eprint = {2002.09120},
+	file = {:home/pc/Documents/dntai/documents/mendeley/2020 - Do, Kim - Affective Expression Analysis in-the-wild using Multi-Task Temporal Statistical Deep Learning Model.pdf:pdf},
+	month = {feb},
+	title = {{Affective Expression Analysis in-the-wild using Multi-Task Temporal Statistical Deep Learning Model}},
+	url = {http://arxiv.org/abs/2002.09120},
+	year = {2020}
+}
+<pre/>
 
 ## How to run
 1. Download and setup Anaconda3
