@@ -21,7 +21,7 @@ Affiliation: Chonnam National University, South Korea <br/>
    2. Extract ccropped_aligned.zip to **data/AffWild2/data/cropped_aligned** folder
    3. Extract ccropped.zip and merge batch 1&2 folder to **data/AffWild2/data/cropped** folder
    4. Extract videos.zip and merge batch 1&2 folder to **data/AffWild2/data/cropped_aligned** folder
-5. Download weight files and copy to folder **submit/weights** from https://drive.google.com/drive/folders/1rJB2viPCxw93qFSaga3uqC6OfWMKRHn2?usp=sharing
+5. Download weight files and copy to folder **submit1/weights** from https://drive.google.com/drive/folders/1rJB2viPCxw93qFSaga3uqC6OfWMKRHn2?usp=sharing
 6. Open JupyterLab and run *.ipynb in **submit** folder to output the results (
    + Run sel_t[xx].ipynb to output the prediction files(modify params parameter if neccessary)
    + Run sel_t[xx]_submit.ipynb to output the result folder (modify params parameter if neccessary)
@@ -53,8 +53,8 @@ Affiliation: Chonnam National University, South Korea <br/>
 xpr. Score = 0.533, Valence-Arousal Score  = 0.5126<br/>
 
 * Submission results: 
-Track 1 Valence-Arousal Challenge on Validation: 0.499 (1), 0.492 (2), 0.483 (3), and 0.513 (4) <br/>
-Track 2 Basic Emotion Recognition Challenge on Validation: 0.520 (1), 0.482 (2), 0.384 (3), and 0.533 (4)<br/>
+Track 1 Valence-Arousal Challenge on Validation: 0.484 (1), 0.534 (2), 0.514 (3), and 0.527 (4) <br/>
+Track 2 Basic Emotion Recognition Challenge on Validation: 0.501 (1), 0.492 (2), 0.478 (3), and 0.543 (4)<br/>
 
 Baseline paper: <br/>
 <pre>
